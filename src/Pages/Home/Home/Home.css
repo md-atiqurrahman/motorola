@@ -1,0 +1,37 @@
+.home-page{
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    min-height: 100vh;
+    background-color: #0072B1;
+    color: white;
+}
+
+.home-page h1{
+    font-size: 56px;
+    line-height: 66px;
+    margin: 0;
+}
+
+.home-page h3{
+    font-size: 36px;
+    line-height: 46px;
+    margin: 0;
+}
+
+.home-page .contact{
+    font-size: 26px;
+    line-height: 36px;
+    margin: 0;
+}
+
+.home-page .contact p{
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: lowercase;
+    margin: 0;
+}
